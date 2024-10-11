@@ -9,7 +9,6 @@ In this repository, you will find various projects that illustrate my ability to
 - Objective: Analyzed COVID-19 data specific to India to identify trends, assess the impact of the pandemic across different age groups, and visualize case distribution by state.
 - Key Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
-2wq
 ## Tools and Technologies
 
 - Programming Languages: Python, 
